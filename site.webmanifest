@@ -1,0 +1,24 @@
+{
+  "name": "MGKnet - E-Commerce & WordPress Solutions",
+  "short_name": "MGKnet",
+  "description": "Professional WordPress development and E-Commerce consultancy services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#DDE3FD",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/img/sitemanifest.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "e-commerce", "wordpress"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope": "/"
+}
