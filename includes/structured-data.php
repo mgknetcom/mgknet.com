@@ -4,7 +4,7 @@
     "@type": "Organization",
     "name": "MGKnet",
     "url": "https://mgknet.com",
-    "logo": "https://mgknet.com/logo.png",
+    "logo": "https://mgknet.com/assets/img/logo.png",
     "description": "Professional WordPress development and E-Commerce consultancy services.",
     "address": {
       "@type": "PostalAddress",

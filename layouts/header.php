@@ -17,7 +17,7 @@
   <meta name="theme-color" content="#DDE3FD">
 
   <!-- Fonts -->
-  <link rel="preload" href="/assets/fonts/poppins-light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="./assets/fonts/poppins-light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
   <!-- Styles -->
   <link rel="stylesheet" href="/assets/style.css">
