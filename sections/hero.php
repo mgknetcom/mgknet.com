@@ -1,17 +1,25 @@
-<div class="hero-container flex items-center">
+<div class="hero-container">
   <div class="blob hero-blob-1"></div>
-  <div class="blob2 hero-blob-2"></div>
+  <div class="blob hero-blob-2"></div>
 
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-      <div class="relative z-10">
-        <h1 class="text-6xl font-bold leading-tight">
-          Expert
-          <span class="gradient-text">WordPress Development</span>
-          &
-          <span class="text-indigo-600">E-Commerce Strategy</span>
-        </h1>
-        <p class="mt-8 text-gray-600 text-xl leading-relaxed">
+      <div class="hero-content">
+        <div class="mb-8">
+          <h1 class="text-6xl font-bold leading-tight mb-4">
+            <span class="gradient-text">Expert</span>
+          </h1>
+          <h2 class="text-5xl font-bold leading-tight mb-4">
+            <span class="gradient-text">WordPress Development</span>
+          </h2>
+          <h2 class="text-5xl font-bold leading-tight">
+            <span class="text-indigo-600">&</span>
+          </h2>
+          <h2 class="text-5xl font-bold leading-tight">
+            <span class="gradient-text">E-Commerce Strategy</span>
+          </h2>
+        </div>
+        <p class="text-xl leading-relaxed text-overlay">
           Transform your online store dreams into reality. We deliver custom WordPress solutions
           and strategic e-commerce consulting that drives sustainable business growth.
         </p>
@@ -19,11 +27,12 @@
           <a href="#work" class="px-8 py-4 bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg hover:shadow-lg transition-all">
             View Our Work
           </a>
-          <a href="#contact" class="px-8 py-4 border-2 border-indigo-500 text-indigo-500 rounded-lg hover:bg-indigo-50 transition-all">
+          <a href="mailto:contact@mgknet.com" class="px-8 py-4 border-2 border-indigo-500 text-indigo-500 rounded-lg hover:bg-indigo-50 transition-all">
             Get Started
           </a>
         </div>
       </div>
+
       <div class="relative">
         <div class="absolute inset-0 bg-gradient-to-r from-blue-500/10 to-indigo-500/10 rounded-3xl transform rotate-3"></div>
         <div class="absolute inset-0 bg-gradient-to-r from-blue-500/10 to-indigo-500/10 rounded-3xl transform -rotate-3"></div>

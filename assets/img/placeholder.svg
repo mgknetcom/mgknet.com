@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EEF2FF" />
+      <stop offset="100%" style="stop-color:#DDE3FD" />
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3B82F6" />
+      <stop offset="100%" style="stop-color:#6366F1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background rectangle -->
+  <rect width="800" height="600" fill="url(#bg-gradient)" />
+  
+  <!-- Center content -->
+  <g transform="translate(400, 300)">
+    
+    <!-- MGKnet text -->
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="url(#text-gradient)">MGK</text>
+    <text x="0" y="50" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="url(#text-gradient)">net</text>
+    
+    <!-- Placeholder text -->
+    <text x="0" y="100" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#6B7280">Image Placeholder</text>
+  </g>
+  
+  <!-- Bottom text -->
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#6B7280">WordPress Development &amp; E-Commerce Strategy</text>
+</svg>
