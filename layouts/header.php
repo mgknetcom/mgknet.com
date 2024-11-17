@@ -20,8 +20,8 @@
   <link rel="preload" href="./assets/fonts/poppins-light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="/assets/style.css">
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="/assets/custom_style.css">
+  <link rel="stylesheet" href="/assets/style.min.css">
 
   <?php include './includes/structured-data.php'; ?>
 </head>

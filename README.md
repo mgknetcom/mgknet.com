@@ -28,7 +28,9 @@ A professional website showcasing WordPress development and E-Commerce consultan
    # Navigate to project directory
    cd mgknet.com
    
-   # Configure your web server to point to the project directory
+   # Install dependencies
+   npm install
+
    ```
 
 3. **Configuration**
