@@ -38,6 +38,26 @@ A professional website showcasing WordPress development and E-Commerce consultan
    - Update `config/solutions.php` with your service offerings
    - Modify meta tags in `header.php` for SEO optimization
 
+## Useful Commands
+
+- Continuously watch for changes in the `style.css` file, updating the output file whenever changes occur.
+
+```bash
+npx tailwindcss -i ./assets/style.css -o ./assets/style.min.css --watch
+```
+
+* Generate a minified version of the CSS
+
+```bash
+npx tailwindcss -o ./assets/style.min.css --minify 
+```
+
+* Build the application
+
+```bash
+npm run package
+```
+
 ## 🔧 Development
 
 The project uses a modular structure:

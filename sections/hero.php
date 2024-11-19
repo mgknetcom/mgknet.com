@@ -45,7 +45,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold">WordPress Development</h3>
-              <p class="text-sm text-gray-600 mt-2">Custom themes and plugins</p>
+              <p class="text-sm mt-2">Custom themes and plugins</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-blue-50 to-indigo-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center mb-3">
@@ -54,7 +54,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold">E-Commerce</h3>
-              <p class="text-sm text-gray-600 mt-2">WooCommerce solutions</p>
+              <p class="text-sm mt-2">WooCommerce solutions</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-blue-50 to-indigo-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center mb-3">
@@ -63,7 +63,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold">Strategy</h3>
-              <p class="text-sm text-gray-600 mt-2">Growth consulting</p>
+              <p class="text-sm mt-2">Growth consulting</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-blue-50 to-indigo-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center mb-3">
@@ -72,7 +72,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold">Support</h3>
-              <p class="text-sm text-gray-600 mt-2">Ongoing maintenance</p>
+              <p class="text-sm mt-2">Ongoing maintenance</p>
             </div>
           </div>
         </div>

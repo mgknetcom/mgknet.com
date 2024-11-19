@@ -8,7 +8,7 @@
 
   <!-- Meta Tags -->
   <meta name="description" content="<?php echo $pageDescription ?? 'Custom web applications and API solutions built with modern technologies.'; ?>">
-  <meta name="keywords" content="web development, API integration, custom software, Laravel, React, Vue.js, cloud solutions">
+  <meta name="keywords" content="WordPress website development, API integration, custom software, WordPress, React, Vue.js, cloud solutions, Laravel">
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
