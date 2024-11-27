@@ -20,15 +20,14 @@
           </h2>
         </div>
         <p class="text-xl leading-relaxed text-brand-gray-700">
-          Transform your online store dreams into reality. We deliver custom WordPress solutions
-          and strategic e-commerce consulting that drives sustainable business growth.
+          A WordPress-focused agency offering everything from enterprise-level e-commerce solutions to custom development for smaller companies, with long-term guidance and maintenance in mind.
         </p>
         <div class="mt-10 flex flex-wrap sm:flex-nowrap gap-4">
           <a href="#work" class="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-brand-primary-500 to-brand-secondary-500 text-white rounded-lg hover:from-brand-primary-600 hover:to-brand-secondary-600 hover:shadow-lg transition-all text-center">
             View Our Work
           </a>
           <a href="mailto:contact@mgknet.com" class="w-full sm:w-auto px-8 py-4 border-2 border-brand-primary-600 text-brand-primary-700 rounded-lg hover:bg-brand-primary-50 transition-all text-center">
-            Get Started
+            Contact Us
           </a>
         </div>
       </div>
