@@ -30,11 +30,5 @@ Disallow: /*?p=*
 Disallow: /*preview=*
 Disallow: /*debug=*
 
-# Prevent duplicate content
-Disallow: /tag/
-Disallow: /category/
-Disallow: /author/
-Disallow: /page/*
-
 # Sitemap
 Sitemap: https://mgknet.com/sitemap.xml
