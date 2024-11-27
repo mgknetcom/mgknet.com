@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.svg$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.webp$
+
+# Protect sensitive WordPress paths
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /?author=*
+
+# Protect against content scraping
+Disallow: /*?s=* 
+Disallow: /*?p=*
+Disallow: /*preview=*
+Disallow: /*debug=*
+
+# Prevent duplicate content
+Disallow: /tag/
+Disallow: /category/
+Disallow: /author/
+Disallow: /page/*
+
+# Sitemap
+Sitemap: https://mgknet.com/sitemap.xml
