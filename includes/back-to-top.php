@@ -6,7 +6,6 @@
 </button>
 
 <script>
-  // Back to top functionality
   const backToTop = document.getElementById('backToTop');
 
   window.addEventListener('scroll', () => {
