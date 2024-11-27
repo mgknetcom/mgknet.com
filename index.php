@@ -4,10 +4,12 @@ $pageDescription = 'Professional WordPress development and E-Commerce consultanc
 
 $projects = require 'config/projects.php';
 $solutions = require 'config/solutions.php';
+$clients = require 'config/clients.php';
 
 include 'layouts/header.php';
 include 'includes/back-to-top.php';
 include 'sections/hero.php';
 include 'sections/solutions.php';
+include 'sections/clients.php';
 include 'sections/work.php';
 include 'layouts/footer.php';
