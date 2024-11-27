@@ -3,7 +3,7 @@
     <div class="flex justify-center space-x-12">
       <a href="mailto:contact@mgknet.com" class="hover:text-blue-600 transition-colors">Contact</a>
     </div>
-    <div class="mt-8 text-center">
+    <div class="mt-8 text-center text-gray-700">
       © 2020 - <span id="currentYear"></span> MGKnet. All rights reserved.
     </div>
   </div>

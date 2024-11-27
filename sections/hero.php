@@ -23,11 +23,11 @@
           Transform your online store dreams into reality. We deliver custom WordPress solutions
           and strategic e-commerce consulting that drives sustainable business growth.
         </p>
-        <div class="mt-10 flex gap-4">
-          <a href="#work" class="px-8 py-4 bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg hover:shadow-lg transition-all">
+        <div class="mt-10 flex flex-wrap sm:flex-nowrap gap-4">
+          <a href="#work" class="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg hover:shadow-lg transition-all text-center">
             View Our Work
           </a>
-          <a href="mailto:contact@mgknet.com" class="px-8 py-4 border-2 border-indigo-500 text-indigo-500 rounded-lg hover:bg-indigo-50 transition-all">
+          <a href="mailto:contact@mgknet.com" class="w-full sm:w-auto px-8 py-4 border-2 border-indigo-600 text-indigo-700 rounded-lg hover:bg-indigo-50 transition-all text-center">
             Get Started
           </a>
         </div>

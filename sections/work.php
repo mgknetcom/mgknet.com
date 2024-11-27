@@ -10,7 +10,7 @@
         <div class="group relative">
           <div class="absolute inset-0 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-2xl transform group-hover:rotate-2 transition-transform"></div>
           <div class="relative bg-white p-6 rounded-2xl">
-            <img src="<?php echo $project['image']; ?>" alt="<?php echo $project['title']; ?>" class="rounded-lg w-full mb-6" />
+            <img src="<?php echo $project['image']; ?>" alt="<?php echo $project['title']; ?>" width="400" height="300" class="rounded-lg w-full h-auto mb-6" />
             <h3 class="text-xl font-bold mb-2"><?php echo $project['title']; ?></h3>
             <p class="text-gray-600 mb-4"><?php echo $project['description']; ?></p>
             <div class="flex space-x-2">
