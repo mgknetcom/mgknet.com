@@ -6,6 +6,7 @@ $projects = require 'config/projects.php';
 $solutions = require 'config/solutions.php';
 
 include 'layouts/header.php';
+include 'includes/back-to-top.php';
 include 'sections/hero.php';
 include 'sections/solutions.php';
 include 'sections/work.php';
