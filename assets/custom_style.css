@@ -91,33 +91,6 @@
     /* Ensure children are always visible */
   }
 
-  /* Image loading styles */
-  img[loading="lazy"] {
-    opacity: 0;
-    transition: opacity 0.3s ease-out;
-  }
-
-  img[loading="lazy"].loaded {
-    opacity: 1;
-  }
-
-  /* Background loading animation */
-  .image-placeholder {
-    background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%);
-    background-size: 200% 100%;
-    animation: shimmer 1.5s linear infinite;
-  }
-
-  @keyframes shimmer {
-    0% {
-      background-position: 200% 0;
-    }
-
-    100% {
-      background-position: -200% 0;
-    }
-  }
-
   /* Hover effects */
   .group:hover .group-hover\:rotate-2 {
     transform: rotate(2deg);

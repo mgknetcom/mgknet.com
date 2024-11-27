@@ -2,10 +2,41 @@
 return [
   [
     'name' => '',
-    'logo' => '/assets/img/portfolio/bcast.svg'
+    'logo' => './assets/portfolio/bcast.svg'
   ],
   [
     'name' => '',
-    'logo' => '/assets/img/clients/20minutes.svg'
+    'logo' => './assets/portfolio/marisa.webp',
+    'url' => 'https://marisa.bg',
+    'altText' => 'Marisa.BG - WooCommerceE-commerce solutions provider'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/20minutes.svg'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/mr-danny.png',
+    'altText' => 'Ukrasi.BG - WooCommerceE-commerce solutions provider'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/rustic-roots.png'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/ukrasi.svg',
+    'url' => 'https://ukrasi.bg',
+    'altText' => 'Ukrasi.BG - WooCommerceE-commerce solutions provider'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/darik-radio.png'
+  ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/negative-wear.jpeg',
+    'url' => 'https://negative-online.com/',
+    'altText' => 'Negative Wear - WooCommerceE-commerce solutions provider'
   ],
 ];
