@@ -39,4 +39,9 @@ return [
     'url' => 'https://negative-online.com/',
     'altText' => 'Negative Wear - WooCommerceE-commerce solutions provider'
   ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/ru-logo.png',
+    'url' => 'https://iou.uni-ruse.bg/'
+  ],
 ];
