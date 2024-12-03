@@ -2,46 +2,45 @@
 return [
   [
     'name' => '',
-    'logo' => './assets/portfolio/bcast.svg'
+    'logo' => './assets/portfolio/client-1.svg'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/marisa.webp',
+    'logo' => './assets/portfolio/client-3.webp',
     'url' => 'https://marisa.bg',
     'altText' => 'Marisa.BG - WooCommerceE-commerce solutions provider'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/20minutes.svg'
+    'logo' => './assets/portfolio/client-2.svg'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/mr-danny.png',
+    'logo' => './assets/portfolio/client-4.webp',
     'altText' => 'Ukrasi.BG - WooCommerceE-commerce solutions provider'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/rustic-roots.png'
+    'logo' => './assets/portfolio/client-5.webp'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/ukrasi.svg',
+    'logo' => './assets/portfolio/client-6.svg',
     'url' => 'https://ukrasi.bg',
     'altText' => 'Ukrasi.BG - WooCommerceE-commerce solutions provider'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/darik-radio.png'
+    'logo' => './assets/portfolio/client-7.webp'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/negative-wear.jpeg',
+    'logo' => './assets/portfolio/client-8.webp',
     'url' => 'https://negative-online.com/',
     'altText' => 'Negative Wear - WooCommerceE-commerce solutions provider'
   ],
   [
     'name' => '',
-    'logo' => './assets/portfolio/ru-logo.png',
-    'url' => 'https://iou.uni-ruse.bg/'
+    'logo' => './assets/portfolio/client-9.webp'
   ],
 ];
