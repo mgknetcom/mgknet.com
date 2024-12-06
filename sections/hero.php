@@ -6,18 +6,18 @@
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
       <div class="hero-content">
         <div class="mb-8">
-          <h1 class="text-6xl font-bold leading-tight mb-4">
+          <div class="text-6xl font-bold leading-tight mb-4">
             <span class="text-brand-primary-500">Expert</span>
-          </h1>
-          <h2 class="text-5xl font-bold leading-tight mb-4">
+          </div>
+          <div class="text-5xl font-bold leading-tight mb-4">
             <span class="text-brand-primary-600">WordPress Development</span>
-          </h2>
-          <h2 class="text-5xl font-bold leading-tight">
+          </div>
+          <div class="text-5xl font-bold leading-tight">
             <span class="text-brand-primary-500">&</span>
-          </h2>
-          <h2 class="text-5xl font-bold leading-tight">
+          </div>
+          <div class="text-5xl font-bold leading-tight">
             <span class="text-brand-primary-600">E-Commerce Strategy</span>
-          </h2>
+          </div>
         </div>
         <p class="text-xl leading-relaxed text-brand-gray-700">
           A WordPress-focused agency offering everything from enterprise-level e-commerce solutions to custom development for smaller companies, with long-term guidance and maintenance in mind.
@@ -44,7 +44,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold text-brand-gray-800">WordPress Development</h3>
-              <p class="text-sm mt-2 text-brand-gray-600">Custom themes and plugins</p>
+              <p class="text-sm mt-2 text-brand-gray-600">Crafting custom themes, plugins, and integrated solutions for seamless digital experiences and optimal performance</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-brand-primary-50 to-brand-secondary-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-brand-primary-500 to-brand-secondary-500 flex items-center justify-center mb-3">
@@ -53,7 +53,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold text-brand-gray-800">E-Commerce</h3>
-              <p class="text-sm mt-2 text-brand-gray-600">WooCommerce solutions</p>
+              <p class="text-sm mt-2 text-brand-gray-600">Full-featured WooCommerce solutions with advanced inventory management, payment gateways, and shipping integrations</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-brand-primary-50 to-brand-secondary-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-brand-primary-500 to-brand-secondary-500 flex items-center justify-center mb-3">
@@ -62,7 +62,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold text-brand-gray-800">Strategy</h3>
-              <p class="text-sm mt-2 text-brand-gray-600">Growth consulting</p>
+              <p class="text-sm mt-2 text-brand-gray-600">Data-driven growth consulting, market analysis, and comprehensive digital strategy development for sustainable success</p>
             </div>
             <div class="rounded-lg bg-gradient-to-br from-brand-primary-50 to-brand-secondary-50 p-4">
               <div class="w-10 h-10 rounded-full bg-gradient-to-r from-brand-primary-500 to-brand-secondary-500 flex items-center justify-center mb-3">
@@ -71,7 +71,7 @@
                 </svg>
               </div>
               <h3 class="font-semibold text-brand-gray-800">Support</h3>
-              <p class="text-sm mt-2 text-brand-gray-600">Ongoing maintenance</p>
+              <p class="text-sm mt-2 text-brand-gray-600">24/7 maintenance, security monitoring, performance optimization, and dedicated technical support for your peace of mind</p>
             </div>
           </div>
         </div>

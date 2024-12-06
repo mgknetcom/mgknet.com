@@ -43,4 +43,8 @@ return [
     'name' => '',
     'logo' => './assets/portfolio/client-9.webp'
   ],
+  [
+    'name' => '',
+    'logo' => './assets/portfolio/client-10.jpg'
+  ],
 ];
