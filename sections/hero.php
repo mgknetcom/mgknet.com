@@ -2,7 +2,7 @@
   <div class="blob hero-blob-1"></div>
   <div class="blob hero-blob-2"></div>
 
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 lg:px-8 lg:py-20">
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
       <div class="hero-content">
         <div class="mb-8">
