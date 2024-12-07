@@ -17,7 +17,7 @@ A professional website showcasing WordPress development and E-Commerce consultan
 
 1. **Prerequisites**
    - PHP 8.0 or higher
-   - Web server (Apache/Nginx)
+   - Web server (Apache/Nginx/Caddy)
 
 2. **Installation**
 

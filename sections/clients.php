@@ -1,4 +1,4 @@
-<div class="py-24 bg-gray-50">
+<div class="py-24">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center max-w-3xl mx-auto mb-16">
       <h2 class="text-4xl font-bold mb-6">Part of our Clients</h2>
